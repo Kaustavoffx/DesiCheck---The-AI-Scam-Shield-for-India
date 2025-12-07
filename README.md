@@ -1,7 +1,5 @@
 # 🛡️ DesiCheck - The AI Scam Shield for India
 
-![DesiCheck Banner](https://via.placeholder.com/1200x400.png?text=DesiCheck+Banner+Image+Here)
-
 ![Status](https://img.shields.io/badge/Status-Deployed-success?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Built%20With-Gemini%203%20Pro-4285F4?style=for-the-badge&logo=google)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Cloud%20Run-blue?style=for-the-badge&logo=googlecloud)
@@ -12,8 +10,8 @@
 ---
 
 ## 🔗 Live Demo
-🔴 **Live App:** [INSERT_YOUR_CLOUD_RUN_LINK_HERE]  
-📺 **Video Demo:** [INSERT_YOUR_YOUTUBE_LINK_HERE]
+🔴 **Live App:** (https://desicheck-2364229762.us-west1.run.app/)  
+📺 **Video Demo:** (https://youtu.be/MYii6km3YI0)
 
 ---
 
